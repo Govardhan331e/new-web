@@ -1,2 +1,0 @@
-# new-web
-Learning Devops
